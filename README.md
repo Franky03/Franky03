@@ -7,7 +7,6 @@
 
 ![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky03&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&theme=radical)](https://github.com/Franky03)
 
 ### Machine Learning and Web Automation Project:
 [![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/Franky03/PythonProjects)
