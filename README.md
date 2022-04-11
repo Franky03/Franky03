@@ -7,6 +7,7 @@
 
 ![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky03&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&theme=radical)](https://github.com/Franky03)
 
 ### Machine Learning and Web Automation Project:
 [![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/Franky03/PythonProjects)
@@ -14,3 +15,5 @@
 ### Tecnologias que uso no dia a dia: 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Franky03)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Franky03)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Franky03)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Franky03)
