@@ -1,10 +1,17 @@
 # Computer Engineering Student 👨‍💻
+ ## About me
+ 🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB, estou atualmente me aprofundando em Python e Inteligencia Artificial, querendo aplicar esse conhecimento nas áreas da saúde ou natureza.
+<br/> Eu gosto de jogar vôlei, escutar musica, Marvel e DC, ler livros, gosto bastante de biologia e obviamente de programação.
+<br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB, i'm currently studying Python and Artificial Intelligence, wanting to apply this knowledge in the areas of health or nature.
+<br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I really like biology and obviously programming.
+
 ## Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+
 
 <div align="center">
   <a href="https://github.com/Franky03">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Franky03&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&layout=compact&langs_count=8&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Franky03&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&layout=compact&langs_count=8&theme=github_dark"/>
   <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=Franky03&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
 </div>
 <div style="display: inline_block"><br>
