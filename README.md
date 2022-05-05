@@ -26,8 +26,14 @@
   
   ##
  
- ### Machine Learning and Web Automation Project:
-[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/Franky03/PythonProjects)
+ ## Pojects
+ 
+ ### Machine Learning and Web Automation (Jupyter): 
+<a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+ ### Python Codes (Visual Studio Code):
+<a href="https://github.com/Franky03/MyProjects/blob/master/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+
+  
  ### My First WebSite Whit HTML5 and CSS3
   [Go to Website](https://franky03.github.io/WebSites/)
  
