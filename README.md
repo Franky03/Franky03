@@ -1,6 +1,6 @@
 # Computer Engineering Student 👨‍💻
  ## About me
- 🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB, estou atualmente me aprofundando em Python e Inteligencia Artificial, querendo aplicar esse conhecimento em projetos nas áreas da saúde ou natureza, pretendo também trabalhar na área de Desenvolvimento Web e Mobile.
+ 🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB, estou atualmente me aprofundando em Python e Inteligência Artificial, querendo aplicar esse conhecimento em projetos nas áreas da saúde ou natureza, pretendo também trabalhar na área de Desenvolvimento Web e Mobile.
 <br/> Eu gosto de jogar vôlei, escutar musica, Marvel e DC, ler livros, gosto bastante de biologia e obviamente de programação.
 <br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB, i'm currently studying Python and Artificial Intelligence, wanting to apply this knowledge in projects in the health or nature areas, I also intend to work in the area of Web and Mobile Development.
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I really like biology and obviously programming.
