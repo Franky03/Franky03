@@ -20,6 +20,7 @@
   <img align="center" alt="Frankley-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Frankley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Frankley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Frankley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="right" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
@@ -30,12 +31,13 @@
  
  ### Machine Learning and Web Automation (Jupyter): 
 <a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+ 
  ### Python Codes (Visual Studio Code):
-<a href="https://github.com/Franky03/MyProjects/blob/master/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  
- ### My First WebSite Whit HTML5 and CSS3
-  [Go to Website](https://franky03.github.io/WebSites/)
+<a href="https://github.com/Franky03/MyProjects/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+ <br/>
+ 
+ ### WebSites (HTLM/CSS/JS)
+ <a href="https://linktr.ee/frankyy03"><img height="28.5" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
  
  ##
   
