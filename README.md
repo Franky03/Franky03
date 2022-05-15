@@ -37,7 +37,7 @@
  <br/>
  
  ### WebSites (HTLM/CSS/JS)
- <a href="https://linktr.ee/frankyy03"><img height="28.5" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+ <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
  
  ##
   
