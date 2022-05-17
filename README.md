@@ -33,7 +33,7 @@
 <a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
  
  ### Python Codes (Visual Studio Code):
-<a href="https://github.com/Franky03/MyProjects/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
  <br/>
  
  ### WebSites (HTLM/CSS/JS)
