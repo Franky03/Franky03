@@ -29,16 +29,24 @@
  
  ## Pojects
  
- ### Machine Learning and Web Automation (Jupyter): 
+ <div>
+ <h3>Machine Learning and Web Automation (Jupyter):</h3>
 <a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
- 
- ### Python Codes (Visual Studio Code):
-<a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
- <br/>
- 
- ### WebSites (HTLM/CSS/JS)
+ </div>
+  <div>
+ <h3>WebSites (HTLM/CSS/JS):</h3>
  <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+  </div>
+   <div>
+<h3>Python Codes (Visual Studio Code):</h3>
+<a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+ </div>
+    <div>
+  <h3>Youtube MP3 and MP4 Downloader:</h3>
+ <a href="https://github.com/Franky03/MyCodes/blob/main/Files/YoutubeConverter/main.py"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+</div>
  
+
  ##
   
 <a href="https://www.instagram.com/frankley.kaiky/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"> <a href="https://twitter.com/asagiri_gen5"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"> <a href="https://www.linkedin.com/in/frankley-kaiky-a62272237/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> <a href="https://www.github.com/Franky03"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
