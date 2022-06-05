@@ -1,11 +1,17 @@
 # Computer Engineering Student 👨‍💻
- ## About me
+ ## About me 
+
  🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB, estou atualmente me aprofundando em Python e Inteligência Artificial, querendo aplicar esse conhecimento em projetos nas áreas da saúde ou natureza, pretendo também trabalhar na área de Desenvolvimento Web e Mobile.
 <br/> Eu gosto de jogar vôlei, escutar musica, Marvel e DC, ler livros, gosto bastante de biologia e obviamente de programação.
 <br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB, i'm currently studying Python and Artificial Intelligence, wanting to apply this knowledge in projects in the health or nature areas, I also intend to work in the area of Web and Mobile Development.
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I really like biology and obviously programming.
 
 ### Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+
+<div style="display: inline_block">
+<a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
+<a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
+</div>
 
 ## ⚡ GitHub Stats
 
@@ -29,24 +35,14 @@
  
  ## Pojects
  
- <div>
- <h3>Machine Learning and Web Automation (Jupyter):</h3>
-<a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
- </div>
-  <div>
- <h3>WebSites (HTLM/CSS/JS):</h3>
+ <div style="display: inline_block">
+<h3>Machine Learning and Web Automation (Jupyter):</h3>
+ <a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+<h3>WebSites (HTLM/CSS/JS):</h3>
  <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
-  </div>
-   <div>
 <h3>Python Codes (Visual Studio Code):</h3>
-<a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
- </div>
-    <div>
-  <h3>Youtube MP3 and MP4 Downloader:</h3>
+ <a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<h3>Youtube MP3 and MP4 Downloader:</h3>
  <a href="https://github.com/Franky03/MyCodes/blob/main/Files/YoutubeConverter/main.py"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 </div>
  
-
- ##
-  
-<a href="https://www.instagram.com/frankley.kaiky/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"> <a href="https://twitter.com/asagiri_gen5"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"> <a href="https://www.linkedin.com/in/franky03/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> <a href="https://www.github.com/Franky03"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
