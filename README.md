@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/Franky03">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Franky03&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss,jupyter%20notebook&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss&layout=compact&langs_count=8&theme=github_dark"/>
   <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=Franky03&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
 </div>
 <div style="display: inline_block"><br>
