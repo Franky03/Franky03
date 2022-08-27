@@ -36,13 +36,15 @@
  ## Pojects
  
  <div style="display: inline_block">
-<h3>Machine Learning and Web Automation (Jupyter):</h3>
- <a href="https://github.com/Franky03/PythonProjects"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-<h3>WebSites (HTLM/CSS/JS):</h3>
+<h3>Análises de Acidentes de Tráfego e Desmatamento em UCs:</h3>
+ <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+<h3>WebSites (HTLM/CSS/JS):
+</br>
+Youtube MP3 and MP4 downloader / Blog / OP Characters
+</h3>
  <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
 <h3>Python Codes (Visual Studio Code):</h3>
  <a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-<h3>Youtube MP3 and MP4 Downloader:</h3>
- <a href="https://github.com/Franky03/YoutubeDownloader"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+
 </div>
  
