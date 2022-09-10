@@ -12,12 +12,13 @@ Computer Engineering Student 👨‍💻
 ### 🤖⠀Focusing on Machine and Deep Learning
 ### 🐋⠀Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
 
-##
-
 <div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
 <a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
 </div>
+
+
+##
 
 ## ⚡ GitHub Stats
 
