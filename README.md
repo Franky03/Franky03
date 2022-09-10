@@ -1,12 +1,18 @@
-# Computer Engineering Student 👨‍💻
- ## About me 
+<h1 align="center">
+Computer Engineering Student 👨‍💻
+</h1>
+
+<h3 align="center"> About me </h3>
 
  🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB.
 <br/>Eu gosto de jogar vôlei, escutar musica, Marvel e DC, ler livros, gosto de jogos e obviamente de programação.
 <br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB.
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
 
-### Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+### 🤖⠀Focusing on Machine and Deep Learning
+### 🐋⠀Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+
+##
 
 <div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
@@ -47,4 +53,8 @@ Youtube MP3 and MP4 downloader / Blog / OP Characters
  <a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
 </div>
+<br>
+<p align="center">
+ <img src="https://profile-counter.glitch.me/franky03/count.svg" alt="Hello world" />
+</p>
  
