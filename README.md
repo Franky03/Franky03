@@ -25,12 +25,13 @@ Computer Engineering Student 👨‍💻
 <div align="center">
   <a href="https://github.com/Franky03">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Franky03&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss,Procfile,R&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss,Procfile,R,jupyter%20notebook&layout=compact&langs_count=8&theme=github_dark"/>
   <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=Franky03&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Frankley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Frankley-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Frankley-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Frankley-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Frankley-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Frankley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
