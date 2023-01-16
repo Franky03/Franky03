@@ -55,7 +55,7 @@ Youtube MP3 and MP4 downloader / Blog / OP Characters
 </h3>
  <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
 <h3>Python Codes (Visual Studio Code):</h3>
- <a href="https://github.com/Franky03/MyCodes/blob/main/README.md"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+ <a href="https://github.com/Franky03/MyCodes"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
 </div>
 <br>
