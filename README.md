@@ -44,7 +44,7 @@ Computer Engineering Student 👨‍💻
   
   ##
  
- ## Pojects
+ ## Projects
  
  <div style="display: flex; justify-content: space-between;">     
    <h3>Data Science</h3>
