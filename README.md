@@ -10,7 +10,7 @@ Computer Engineering Student 👨‍💻
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
 
 ### 🤖⠀Focusing on Deep Learning and Computer Vision
-### 🐋⠀Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+### 🐋⠀Leader of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
 
 <div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
@@ -46,18 +46,17 @@ Computer Engineering Student 👨‍💻
  
  ## Pojects
  
- <div style="display: inline_block">
-<h3>Análises de Acidentes de Tráfego e Desmatamento em UCs:</h3>
- <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-<h3>WebSites (HTLM/CSS/JS):
-</br>
-Youtube MP3 and MP4 downloader / Blog / OP Characters
-</h3>
- <a href="https://linktr.ee/frankyy03"><img height="27.5" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
-<h3>Python Codes (Visual Studio Code):</h3>
- <a href="https://github.com/Franky03/MyCodes"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-</div>
+ <div style="display: flex; justify-content: space-between;">     
+   <h3>Data Science</h3>
+   <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+   <h3>UG0 </h3>
+   <a href="https://github.com/Franky03/UG0"><img height="30" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
+   <h3>Web Development</h3>
+   <a href="https://linktr.ee/frankyy03"><img height="27.5" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
+    <h3>Computer Vision</h3>
+    <a href="https://github.com/Franky03/Computer-Vision"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+ </div>
+        
 <br>
 <p align="center">
  <img src="https://profile-counter.glitch.me/franky03/count.svg" alt="Hello world" />
