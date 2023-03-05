@@ -10,7 +10,7 @@ Computer Engineering Student 👨‍💻
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
 
 ### 🤖⠀Focusing on Deep Learning and Computer Vision
-### 🐋⠀Leader of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+### 🐋⠀Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
 
 <div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
