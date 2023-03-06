@@ -11,6 +11,8 @@ Computer Engineering Student 👨‍💻
 
 ### 🤖⠀Focusing on Deep Learning and Computer Vision
 ### 🐋⠀Member of [TAIL- Technology and Artificial Intelligence League](https://github.com/TailUFPB)
+### 💻⠀Front-end Developer at [ARIA](https://aria.ci.ufpb.br/)
+
 
 <div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
