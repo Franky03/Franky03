@@ -53,7 +53,7 @@ Computer Engineering Student 👨‍💻
    <h3>Data Science</h3>
    <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
    <h3>UG0 </h3>
-   <a href="https://github.com/Franky03/UG0"><img height="30" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
+   <a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4"><img height="30" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
    <h3>Web Development</h3>
    <a href="https://linktr.ee/frankyy03"><img height="27.5" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
     <h3>Computer Vision</h3>
