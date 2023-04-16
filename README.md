@@ -21,7 +21,7 @@
 
 
 ##
-## <img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> GitHub Stats
+## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Franky03">
@@ -47,7 +47,7 @@
   
   ##
  
- ## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> Projects
+ ## <img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Projects
  
  <div style="display: flex; justify-content: space-between;">     
    <h3>Data Science </h3>
