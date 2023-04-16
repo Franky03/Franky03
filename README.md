@@ -1,5 +1,5 @@
 <h1 align="center">
-Computer Engineering Student 👨‍💻
+👨‍💻 Computer Engineering Student 
 </h1>
 
 <h3 align="center"> About me </h3>
@@ -21,7 +21,7 @@ Computer Engineering Student 👨‍💻
 
 
 ##
-## ⚡ GitHub Stats
+## <img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Franky03">
@@ -47,17 +47,17 @@ Computer Engineering Student 👨‍💻
   
   ##
  
- ## Projects
+ ## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> Projects
  
  <div style="display: flex; justify-content: space-between;">     
-   <h3>Data Science</h3>
-   <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+   <h3>Data Science </h3>
+   <a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img style="display: inline-block;" height="28.5" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
    <h3>UG0 </h3>
-   <a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4"><img height="30" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
+   <a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4"><img style="display: inline-block;" height="30" src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
    <h3>Web Development</h3>
-   <a href="https://linktr.ee/frankyy03"><img height="27.5" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
+   <a href="https://linktr.ee/frankyy03"><img style="display: inline-block;" height="27.5" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
     <h3>Computer Vision</h3>
-    <a href="https://github.com/Franky03/Computer-Vision"><img height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    <a href="https://github.com/Franky03/Computer-Vision"><img style="display: inline-block;" height="30" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
  </div>
         
 <br>
