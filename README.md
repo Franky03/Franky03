@@ -54,17 +54,18 @@
   <tr>
     <td>Data Science</td>
     <td>Computer Vision</td>
+    <td>Web Development</td>
     <td>Ysera</td>
     <td>UG0</td>
-    <td>Web Development</td>
+    
     
   </tr>
   <tr>
     <td><a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img style="display: inline-block;" height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a></td>
    <td><a href="https://github.com/Franky03/Computer-Vision"><img style="display: inline-block;" height="24" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a></td>
+   <td><a href="https://linktr.ee/frankyy03"><img style="display: inline-block;" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
    <td><a href="https://github.com/Franky03/Ysera"><img style="display: inline-block;" height="28" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  </a></td>
     <td><a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4"><img style="display: inline-block;" height="28" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a></td>
-    <td><a href="https://linktr.ee/frankyy03"><img style="display: inline-block;" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
     
   </tr>
 </table>
