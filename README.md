@@ -9,7 +9,8 @@
 <br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB.
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
 
-#### ㅤㅤㅤㅤㅤㅤㅤㅤ📊⠀Data Scientist at [DHAUZ](https://dhauz.com/) ㅤㅤ💻⠀Front-end Developer at [ARIA](https://aria.ci.ufpb.br/) ㅤㅤ🐋⠀Director of [TAIL](https://github.com/TailUFPB)
+<h4> 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> <br/><br/> 💻ㅤFront-end Developer at <a href="https://aria.ci.ufpb.br/">ARIA</a><br/><br/> 🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a></h4>
+
 
 
 
@@ -50,31 +51,21 @@
 </div>
   
   ##
- 
+ <!--
  ## <img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Projects
  
- <table>
-  <tr>
-    <td>Data Science</td>
-    <td>Computer Vision</td>
-    <td>Web Development</td>
-    <td>Ysera</td>
-    <td>UG0</td>
-    
-    
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy"><img style="display: inline-block;" height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a></td>
-   <td><a href="https://github.com/Franky03/Computer-Vision"><img style="display: inline-block;" height="24" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a></td>
-   <td><a href="https://linktr.ee/frankyy03"><img style="display: inline-block;" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
-   <td><a href="https://github.com/Franky03/Ysera"><img style="display: inline-block;" height="28" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  </a></td>
-    <td><a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4"><img style="display: inline-block;" height="28" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a></td>
-    
-  </tr>
-</table>
+ <ol>
+  <li><a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy">Data Science</a></li>
+  <li><a href="https://github.com/Franky03/Computer-Vision">Computer Vision</a></li>
+  <li><a href="https://linktr.ee/frankyy03">Web Development</a></li>
+  <li><a href="https://github.com/Franky03/Ysera">Ysera</a></li>
+  <li><a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4">UG0</a></li>
+</ol>
+-->
+
 
         
-<br>
+<br/>
 <p align="center">
  <img src="https://profile-counter.glitch.me/franky03/count.svg" alt="Hello world" />
 </p>
