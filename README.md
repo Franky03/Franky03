@@ -9,7 +9,7 @@
 <br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB.
 <br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
 
-<h4> 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> <br/><br/> 💻ㅤFront-end Developer at <a href="https://aria.ci.ufpb.br/">ARIA</a><br/><br/> 🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a></h4>
+<h4> 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> <br/><br/> 💻ㅤSoftware Engineer at <a href="https://aria.ci.ufpb.br/">ARIA</a><br/><br/> 🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a></h4>
 
 
 
