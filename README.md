@@ -2,20 +2,16 @@
 👨‍💻 Computer Engineering Student 
 </h1>
 
-<h3 align="center"> About me </h3>
-
- 🇧🇷 Oi, eu sou Frankley e sou estudante de Engenharia da Computação na UFPB.
-<br/>Eu gosto de jogar vôlei, escutar musica, Marvel e DC, ler livros, gosto de jogos e obviamente de programação.
-<br/> 🇺🇸 Hi, i'm Frankley and i'm a Computer Engineering Student at UFPB.
-<br/> I like playing volleyball, listening to music, Marvel and DC Universes, reading books, I like games and obviously programming.
-
 <h4> 
- 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> <br/><br/> 
- 💻ㅤSoftware Engineer at <a href="https://aria.ci.ufpb.br/">ARIA</a> <br/><br/> 
- 💡ㅤResearch Fellow at <a href="https://portal.fiocruz.br/">FioCruz</a> <br/><br/> 
+ <br/><br/>
+ ㅤㅤ
+ 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> | 
+ 💻ㅤSoftware Engineer at <a href="https://aria.ci.ufpb.br/">ARIA</a> |
+ 💡ㅤResearch Fellow at <a href="https://portal.fiocruz.br/">FioCruz</a> |
  🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a> 
- 
+ <br/><br/>
 </h4>
+
 
 
 
