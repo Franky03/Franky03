@@ -4,10 +4,10 @@
 
 <h4> 
  <br/><br/>
- ㅤㅤ
  📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> | 
+ ㅤ
  💻ㅤSoftware Engineer at <a href="https://aria.ci.ufpb.br/">ARIA</a> |
- 💡ㅤResearch Fellow at <a href="https://portal.fiocruz.br/">FioCruz</a> |
+ ㅤ
  🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a> 
  <br/><br/>
 </h4>
