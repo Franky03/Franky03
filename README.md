@@ -2,7 +2,7 @@
 👨‍💻 Computer Engineering Student 
 </h1>
 
-<h4> 
+<h4 align="center"> 
  <br/><br/>
  📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> | 
  ㅤ
