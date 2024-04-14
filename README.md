@@ -29,7 +29,7 @@
   <a href="https://github.com/Franky03">
   <img height="160em" src="https://leetcard.jacoblin.cool/Franky03?border=0&radius=20&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss,Procfile,R,Makefile,jupyter%20notebook&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img align = "center" src = "https://github-profile-trophy.vercel.app/?username=Franky03&margin-w=10&no-bg=true&no-frame=true&title=Commit,Stars,Repositories,PR,Followers&theme=juicyfresh" />
+  <img align="left" src = "https://github-profile-trophy.vercel.app/?username=Franky03&margin-w=10&no-bg=true&no-frame=true&title=Commit,Stars,Repositories,PR,Followers&theme=juicyfresh" />
 </div>
  
 <div style="display: inline_block"><br>
