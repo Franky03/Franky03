@@ -1,5 +1,5 @@
 <h1 align="center">
-👨‍💻 Computer Engineering Student 
+👨‍💻 Computer Engineer
 </h1>
 
 <h4 align="center"> 
