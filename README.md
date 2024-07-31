@@ -2,10 +2,10 @@
 📊ㅤData Scientistㅤ|ㅤMachine Learning Engineerㅤ|ㅤComputer Engineeringㅤ💻 
 </h3>
 
+## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
 <a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
 
-## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Franky03">
