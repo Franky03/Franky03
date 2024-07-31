@@ -1,28 +1,10 @@
-<h1 align="center">
-👨‍💻 Computer Engineer
-</h1>
+<h3 align="center">
+📊ㅤData Scientistㅤ|ㅤMachine Learning Engineerㅤ|ㅤComputer Engineeringㅤ💻 
+</h3>
 
-<h4 align="center"> 
- <br/><br/>
- 📊ㅤData Scientist at <a href="https://dhauz.com/">DHAUZ</a> | 
- ㅤ
- 💻ㅤSoftware Engineer at <a href="https://aria.ci.ufpb.br/">ARIA</a> |
- ㅤ
- 🐋ㅤDirector of <a href="https://github.com/TailUFPB">TAIL</a> 
- <br/><br/>
-</h4>
-
-
-
-
-
-<div style="display: inline_block">
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
 <a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
-</div>
 
-
-##
 ## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
 
 <div align="center">
