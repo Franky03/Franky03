@@ -2,6 +2,20 @@
 📊ㅤData Scientistㅤ|ㅤMachine Learning Engineerㅤ|ㅤComputer Engineeringㅤ💻 
 </h3>
 
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIzaTdxMWwwOXIyNHAyZWlqMnhhcGc2YW4ycG1uMmgxa2c1Z3d4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oZR1sC5GhvtO1q88cd/giphy.gif" width="35px" height="35px"> Experiences
+ㅤㅤㅤㅤㅤ
+<img src="https://dhauz.com/wp-content/webp-express/webp-images/uploads/2021/04/qrtl-logo-rodape.png.webp" width="35px" height="35px">ㅤ**Data Scientist Intern at [DHAUZ](https://dhauz.com/)** 
+ㅤ
+<img src="https://avatars.githubusercontent.com/u/47752098?s=200&v=4" width="35px" height="35px">ㅤ**Machine Learning Engineer at [ARIA](https://aria.ci.ufpb.br/)**
+ㅤ
+<img src="https://media.licdn.com/dms/image/v2/C560BAQG5Iz2DDp_HLw/company-logo_100_100/company-logo_100_100/0/1630591259232/ffiocruz_logo?e=1740009600&v=beta&t=B936CjMGJ3PpUlBQQq5IOEoO6805OiCE3XxIxuUeHJw" width="35px" height="35px">ㅤ**Research Fellow at [Fiocruz](https://portal.fiocruz.br/)**
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<img src="https://avatars.githubusercontent.com/u/69110584?s=200&v=4" width="35px" height="35px">ㅤ**Director of [TAIL](https://tail-tech.com/)**
+ㅤㅤㅤㅤㅤㅤㅤ
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQG8evs88hne8Q/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630621378226/log_ufpb_logo?e=1740009600&v=beta&t=Oy4ATuMFPOjqvvyeLdd9wQ_Qe7h93Z7_RFDJOboJI_o" width="35px" height="35px">ㅤ**Researcher at [LOG](https://www.linkedin.com/showcase/log-ufpb/posts/?feedView=all)**
+
+
 ## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
 <a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
 <a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
