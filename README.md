@@ -1,64 +1,64 @@
-<h3 align="center">
-📊ㅤData Scientistㅤ|ㅤMachine Learning Engineerㅤ|ㅤComputer Engineeringㅤ💻 
-</h3> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=006494&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kaiky;AI+Researcher;Building+Something+New" alt="Typing SVG" />
+</h1>
 
-## <img src="https://media.giphy.com/media/NTFD2nIyFU1EfUutt0/giphy.gif" width="35px" height="35px"> GitHub Stats
-<a href="https://www.instagram.com/frankley.kaiky/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png">
-<a href="https://www.linkedin.com/in/franky03/"><img align="right" height="20" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
+<p align="center">
+  <b>Researcher · Fellow Estudar '25 · Computer Engineer @ UFPB</b><br/>
+  <i>Designing intelligent systems that learn, reason, and optimize.</i>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/franky03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kaikym20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/frankley.kaiky/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
+---
+
+### 🔬 Research Interests
+Artificial Intelligence · Reinforcement Learning · Combinatorial Optimization · LLM-based Reasoning & Agentic Architectures · Multi-Agent Systems · Computer Vision
+
+---
+
+### 🧪 Current Research
+
+**Undergraduate Thesis — Constructive RL for Parallel Machine Scheduling with Rejection** (2025–2026)
+*Advisor: Prof. Anand Subramanian, UFPB*
+- Constructive PPO agent with a GAT-based GNN encoder + cross-attention decoder for sequential job scheduling on parallel machines with maintenance and rejection constraints.
+- POMO-style multi-start rollouts with Thresholded Lexicographic Policy Gradient for strict multi-objective optimization (no scalarization), combined with Self-Imitation Learning.
+- Invalid action masking for deadline feasibility + WSPT-based post-processing for near-optimal weighted completion times.
+
+**Research Collaboration — Logistics & Optimization Group (LOG), UFPB** (Nov 2024 – Jul 2025)
+*Supervisors: Prof. Bruno Fânzeres (PUC-Rio), Prof. Anand Subramanian (UFPB) · Collaborator: Carlos Neves*
+- MINLP formulation for exact neural network training, with bilinear terms linearized via McCormick envelopes and piecewise-linear activation approximations.
+- Developed and benchmarked an exact MILP training procedure for certifiably optimal, interpretable small-scale networks.
+
+**Research Fellow — Fiocruz Innovation Incubator** (Dec 2023 – Mar 2024)
+- Time-series forecasting model for ICU bed demand in Brazil's Federal District; top 10 team nationwide, grant awarded by Fiocruz.
+
+---
+
+### 📄 Publications
+- **Kaiky Maia et al.** — *Integrating Computer Vision into CACTO: A System for Fraud Prevention and Secure Transport Monitoring.* WFA @ WebMedia 2025. [[paper]](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/38163)
+  - Vehicle re-identification system (ResNet backbone + re-ranking) deployed in production for SEFAZ-PB, achieving 12× inference speedup (93.5% Rank-1 accuracy on VeRI), the largest such deployment in Northeast Brazil.
+
+---
+
+### 🏆 Leadership & Awards
+- **Former President, TAIL (UFPB)** — Feb 2022 – Jul 2026. Led 70+ students across CV, NLP, and RL projects; secured partnership with Canastra Ventures.
+- **Fellow, [Fundação Estudar](https://www.estudar.org.br/)** — Aug 2025. Top 0.25% of applicants nationally.
+
+---
+
+### 🛠️ Personal Projects
+- **AutoOpt** — LLM-driven automated heuristic design; closed-loop framework where a local LLM iteratively proposes and evaluates code-level modifications to heuristic solvers, evaluated on CVRP benchmarks.
+- **ZoomAI** — Compositional infinite-zoom image synthesis chaining GPT-3.5, BLIP, and Stable Diffusion 2 Inpainting.
+- **UG0** — Vision-guided educational robotics: Arduino arm with real-time pencil-tracking via C++/OpenCV.
+
+---
+
+### 📊 Stats
 <div align="center">
-  <a href="https://github.com/Franky03">
   <img height="160em" src="https://leetcard.jacoblin.cool/Franky03?border=0&radius=20&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky03&exclude_repo=PythonProjects&hide=scss,Procfile,R,Makefile,jupyter%20notebook&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-  <img align="left" src = "https://github-profile-trophy.vercel.app/?username=Franky03&margin-w=10&no-bg=true&no-frame=true&title=Commit,Stars,Repositories,PR,Followers&theme=juicyfresh" />
 </div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Frankley-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Frankley-Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" alt="Frankley-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Frankley-CPP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
-<!--   <img align="center" alt="Frankley-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Frankley-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  
-  <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  
-  
-  <img align="right" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Frankley-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="right" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="right" alt="Spark" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />        
-</div>
-<br/>
-<div>
- <img align="center" alt="DataBricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-</div>
-
-
-  
-  ##
- <!--
-
-  ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIzaTdxMWwwOXIyNHAyZWlqMnhhcGc2YW4ycG1uMmgxa2c1Z3d4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oZR1sC5GhvtO1q88cd/giphy.gif" width="35px" height="35px"> Experiences
- ## <img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Projects
- 
- <ol>
-  <li><a href="https://drive.google.com/drive/folders/18vl3rKPtNf8WDUjXhGFxxcx0QdJpPgPy">Data Science</a></li>
-  <li><a href="https://github.com/Franky03/Computer-Vision">Computer Vision</a></li>
-  <li><a href="https://linktr.ee/frankyy03">Web Development</a></li>
-  <li><a href="https://github.com/Franky03/Ysera">Ysera</a></li>
-  <li><a href="https://www.youtube.com/shorts/5RN0mQ5cIJ4">UG0</a></li>
-</ol>
--->
-
-
-        
-<br/>
-<p align="center">
- <img src="https://profile-counter.glitch.me/franky03/count.svg" alt="Hello world" />
-</p>
- 
