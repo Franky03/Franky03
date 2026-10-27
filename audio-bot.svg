@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-label="Animated ASCII audio research robot">
+<style>text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace;font-size:16px;white-space:pre}.art{fill:#21b7df}.label{fill:#7f90a8}.accent{fill:#a2a7ff}@media(prefers-color-scheme:light){.art{fill:#006494}.label{fill:#52627a}.accent{fill:#595bc9}}</style>
+<g opacity="1"><animate attributeName="opacity" calcMode="discrete" dur="2.8s" repeatCount="indefinite" values="1;0;0;0;1" keyTimes="0;0.25;0.5;0.75;1" />
+<text class="art" x="400" y="25" text-anchor="middle" xml:space="preserve">             .--------------------------------------.</text>
+<text class="label" x="400" y="43" text-anchor="middle" xml:space="preserve">             |   AUDIO LAB   /   SIGNAL MONITOR     |</text>
+<text class="art" x="400" y="61" text-anchor="middle" xml:space="preserve">             &#x27;--------------------------------------&#x27;</text>
+<text class="art" x="400" y="79" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="97" text-anchor="middle" xml:space="preserve">                    .--------------.</text>
+<text class="art" x="400" y="115" text-anchor="middle" xml:space="preserve">       .--.         |  o        o  |         .--.</text>
+<text class="art" x="400" y="133" text-anchor="middle" xml:space="preserve">    ---|  |---------|      __      |---------|  |---</text>
+<text class="art" x="400" y="151" text-anchor="middle" xml:space="preserve">       &#x27;--&#x27;         |   \______/   |         &#x27;--&#x27;</text>
+<text class="art" x="400" y="169" text-anchor="middle" xml:space="preserve">                    | [==&gt;       ] |</text>
+<text class="art" x="400" y="187" text-anchor="middle" xml:space="preserve">                    &#x27;--------------&#x27;</text>
+<text class="art" x="400" y="205" text-anchor="middle" xml:space="preserve">                        /|      |\</text>
+<text class="art" x="400" y="223" text-anchor="middle" xml:space="preserve">                       /_|______|_\</text>
+<text class="art" x="400" y="241" text-anchor="middle" xml:space="preserve">                         /      \</text>
+<text class="art" x="400" y="259" text-anchor="middle" xml:space="preserve">                        /________\</text>
+<text class="accent" x="400" y="277" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="295" text-anchor="middle" xml:space="preserve">         _/\_       _/\_      __/\__</text>
+<text class="label" x="400" y="313" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="331" text-anchor="middle" xml:space="preserve">          LISTENING  &gt;  REASONING  &gt;  LEARNING</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" dur="2.8s" repeatCount="indefinite" values="0;1;0;0;0" keyTimes="0;0.25;0.5;0.75;1" />
+<text class="art" x="400" y="25" text-anchor="middle" xml:space="preserve">             .--------------------------------------.</text>
+<text class="label" x="400" y="43" text-anchor="middle" xml:space="preserve">             |   AUDIO LAB   /   SIGNAL MONITOR     |</text>
+<text class="art" x="400" y="61" text-anchor="middle" xml:space="preserve">             &#x27;--------------------------------------&#x27;</text>
+<text class="art" x="400" y="79" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="97" text-anchor="middle" xml:space="preserve">                    .--------------.</text>
+<text class="art" x="400" y="115" text-anchor="middle" xml:space="preserve">       .--.         |  -        -  |         .--.</text>
+<text class="art" x="400" y="133" text-anchor="middle" xml:space="preserve">    ---|  |---------|      __      |---------|  |---</text>
+<text class="art" x="400" y="151" text-anchor="middle" xml:space="preserve">       &#x27;--&#x27;         |   \______/   |         &#x27;--&#x27;</text>
+<text class="art" x="400" y="169" text-anchor="middle" xml:space="preserve">                    | [====&gt;     ] |</text>
+<text class="art" x="400" y="187" text-anchor="middle" xml:space="preserve">                    &#x27;--------------&#x27;</text>
+<text class="art" x="400" y="205" text-anchor="middle" xml:space="preserve">                        /|      |\</text>
+<text class="art" x="400" y="223" text-anchor="middle" xml:space="preserve">                       /_|______|_\</text>
+<text class="art" x="400" y="241" text-anchor="middle" xml:space="preserve">                         /      \</text>
+<text class="art" x="400" y="259" text-anchor="middle" xml:space="preserve">                        /________\</text>
+<text class="accent" x="400" y="277" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="295" text-anchor="middle" xml:space="preserve">      __/\__/\_   _/\_    _/\__</text>
+<text class="label" x="400" y="313" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="331" text-anchor="middle" xml:space="preserve">          LISTENING  &gt;  REASONING  &gt;  LEARNING</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" dur="2.8s" repeatCount="indefinite" values="0;0;1;0;0" keyTimes="0;0.25;0.5;0.75;1" />
+<text class="art" x="400" y="25" text-anchor="middle" xml:space="preserve">             .--------------------------------------.</text>
+<text class="label" x="400" y="43" text-anchor="middle" xml:space="preserve">             |   AUDIO LAB   /   SIGNAL MONITOR     |</text>
+<text class="art" x="400" y="61" text-anchor="middle" xml:space="preserve">             &#x27;--------------------------------------&#x27;</text>
+<text class="art" x="400" y="79" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="97" text-anchor="middle" xml:space="preserve">                    .--------------.</text>
+<text class="art" x="400" y="115" text-anchor="middle" xml:space="preserve">       .--.         |  o        o  |         .--.</text>
+<text class="art" x="400" y="133" text-anchor="middle" xml:space="preserve">    ---|  |---------|      __      |---------|  |---</text>
+<text class="art" x="400" y="151" text-anchor="middle" xml:space="preserve">       &#x27;--&#x27;         |   \______/   |         &#x27;--&#x27;</text>
+<text class="art" x="400" y="169" text-anchor="middle" xml:space="preserve">                    | [=======&gt;  ] |</text>
+<text class="art" x="400" y="187" text-anchor="middle" xml:space="preserve">                    &#x27;--------------&#x27;</text>
+<text class="art" x="400" y="205" text-anchor="middle" xml:space="preserve">                        /|      |\</text>
+<text class="art" x="400" y="223" text-anchor="middle" xml:space="preserve">                       /_|______|_\</text>
+<text class="art" x="400" y="241" text-anchor="middle" xml:space="preserve">                         /      \</text>
+<text class="art" x="400" y="259" text-anchor="middle" xml:space="preserve">                        /________\</text>
+<text class="accent" x="400" y="277" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="295" text-anchor="middle" xml:space="preserve">        _/\_  _/\__/\_  _/\_</text>
+<text class="label" x="400" y="313" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="331" text-anchor="middle" xml:space="preserve">          LISTENING  &gt;  REASONING  &gt;  LEARNING</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" calcMode="discrete" dur="2.8s" repeatCount="indefinite" values="0;0;0;1;0" keyTimes="0;0.25;0.5;0.75;1" />
+<text class="art" x="400" y="25" text-anchor="middle" xml:space="preserve">             .--------------------------------------.</text>
+<text class="label" x="400" y="43" text-anchor="middle" xml:space="preserve">             |   AUDIO LAB   /   SIGNAL MONITOR     |</text>
+<text class="art" x="400" y="61" text-anchor="middle" xml:space="preserve">             &#x27;--------------------------------------&#x27;</text>
+<text class="art" x="400" y="79" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="97" text-anchor="middle" xml:space="preserve">                    .--------------.</text>
+<text class="art" x="400" y="115" text-anchor="middle" xml:space="preserve">       .--.         |  O        O  |         .--.</text>
+<text class="art" x="400" y="133" text-anchor="middle" xml:space="preserve">    ---|  |---------|      __      |---------|  |---</text>
+<text class="art" x="400" y="151" text-anchor="middle" xml:space="preserve">       &#x27;--&#x27;         |   \______/   |         &#x27;--&#x27;</text>
+<text class="art" x="400" y="169" text-anchor="middle" xml:space="preserve">                    | [=========&gt;] |</text>
+<text class="art" x="400" y="187" text-anchor="middle" xml:space="preserve">                    &#x27;--------------&#x27;</text>
+<text class="art" x="400" y="205" text-anchor="middle" xml:space="preserve">                        /|      |\</text>
+<text class="art" x="400" y="223" text-anchor="middle" xml:space="preserve">                       /_|______|_\</text>
+<text class="art" x="400" y="241" text-anchor="middle" xml:space="preserve">                         /      \</text>
+<text class="art" x="400" y="259" text-anchor="middle" xml:space="preserve">                        /________\</text>
+<text class="accent" x="400" y="277" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="295" text-anchor="middle" xml:space="preserve">     _/\__/\_      _/\__/\__</text>
+<text class="label" x="400" y="313" text-anchor="middle" xml:space="preserve"></text>
+<text class="art" x="400" y="331" text-anchor="middle" xml:space="preserve">          LISTENING  &gt;  REASONING  &gt;  LEARNING</text>
+</g>
+</svg>
