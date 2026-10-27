@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+<title id="title">Neural network, animated</title><desc id="desc">Minimal layered neural network with softly pulsing nodes and traveling activation signals.</desc>
+<style>
+  .edge { stroke:#577891; stroke-width:1; opacity:.22; fill:none; }
+  .node { fill:#0e202f; stroke:#38aacf; stroke-width:1.5; }
+  .core { fill:#9cecff; opacity:.36; }
+  .label { fill:#7898a9; font: 11px ui-monospace,SFMono-Regular,Consolas,monospace; letter-spacing:2.6px; }
+  .signal { fill:none; stroke:#88edff; stroke-width:1.9; stroke-linecap:round; opacity:0; stroke-dasharray:3 1100; animation:flow 7.2s linear infinite; }
+  .signal.b {stroke:#75a6ee;animation-delay:-2.4s}
+  .signal.c {stroke:#a1e6c4;animation-delay:-4.8s}
+  .pulse {animation:glow 3.5s ease-in-out infinite; transform-box:fill-box; transform-origin:center}
+  .pulse.b {animation-delay:-1.2s} .pulse.c {animation-delay:-2.4s}
+  @keyframes flow {0%{stroke-dashoffset:400;opacity:0} 12%{opacity:.95} 80%{opacity:.8} 100%{stroke-dashoffset:-400;opacity:0}}
+  @keyframes glow {0%,100%{opacity:.22} 42%{opacity:.95}}
+  @media (prefers-reduced-motion:reduce) {.signal,.pulse {animation:none} .pulse{opacity:.65} .signal{opacity:0}}
+  @media (prefers-color-scheme:light) {.edge{stroke:#376785;opacity:.25} .node{fill:#effaff;stroke:#13668b} .core{fill:#167b9f} .label{fill:#47738a}}
+</style>
+<g>
+<path class="edge" d="M128 91 L322 67"/>
+<path class="edge" d="M128 91 L322 95"/>
+<path class="edge" d="M128 91 L322 123"/>
+<path class="edge" d="M128 91 L322 207"/>
+<path class="edge" d="M128 120 L322 67"/>
+<path class="edge" d="M128 120 L322 95"/>
+<path class="edge" d="M128 120 L322 123"/>
+<path class="edge" d="M128 120 L322 151"/>
+<path class="edge" d="M128 120 L322 179"/>
+<path class="edge" d="M128 149 L322 95"/>
+<path class="edge" d="M128 149 L322 123"/>
+<path class="edge" d="M128 149 L322 151"/>
+<path class="edge" d="M128 149 L322 179"/>
+<path class="edge" d="M128 149 L322 207"/>
+<path class="edge" d="M128 178 L322 123"/>
+<path class="edge" d="M128 178 L322 151"/>
+<path class="edge" d="M128 178 L322 179"/>
+<path class="edge" d="M128 178 L322 207"/>
+<path class="edge" d="M128 178 L322 235"/>
+<path class="edge" d="M128 207 L322 95"/>
+<path class="edge" d="M128 207 L322 179"/>
+<path class="edge" d="M128 207 L322 207"/>
+<path class="edge" d="M128 207 L322 235"/>
+<path class="edge" d="M322 67 L520 81"/>
+<path class="edge" d="M322 67 L520 110"/>
+<path class="edge" d="M322 67 L520 139"/>
+<path class="edge" d="M322 67 L520 197"/>
+<path class="edge" d="M322 95 L520 81"/>
+<path class="edge" d="M322 95 L520 110"/>
+<path class="edge" d="M322 95 L520 139"/>
+<path class="edge" d="M322 95 L520 168"/>
+<path class="edge" d="M322 123 L520 81"/>
+<path class="edge" d="M322 123 L520 110"/>
+<path class="edge" d="M322 123 L520 139"/>
+<path class="edge" d="M322 123 L520 168"/>
+<path class="edge" d="M322 123 L520 197"/>
+<path class="edge" d="M322 151 L520 110"/>
+<path class="edge" d="M322 151 L520 139"/>
+<path class="edge" d="M322 151 L520 168"/>
+<path class="edge" d="M322 151 L520 197"/>
+<path class="edge" d="M322 179 L520 81"/>
+<path class="edge" d="M322 179 L520 110"/>
+<path class="edge" d="M322 179 L520 139"/>
+<path class="edge" d="M322 179 L520 168"/>
+<path class="edge" d="M322 179 L520 197"/>
+<path class="edge" d="M322 179 L520 226"/>
+<path class="edge" d="M322 207 L520 139"/>
+<path class="edge" d="M322 207 L520 168"/>
+<path class="edge" d="M322 207 L520 197"/>
+<path class="edge" d="M322 207 L520 226"/>
+<path class="edge" d="M322 235 L520 168"/>
+<path class="edge" d="M322 235 L520 197"/>
+<path class="edge" d="M322 235 L520 226"/>
+<path class="edge" d="M520 81 L716 116"/>
+<path class="edge" d="M520 81 L716 145"/>
+<path class="edge" d="M520 81 L716 203"/>
+<path class="edge" d="M520 110 L716 116"/>
+<path class="edge" d="M520 110 L716 145"/>
+<path class="edge" d="M520 110 L716 174"/>
+<path class="edge" d="M520 139 L716 116"/>
+<path class="edge" d="M520 139 L716 145"/>
+<path class="edge" d="M520 139 L716 174"/>
+<path class="edge" d="M520 168 L716 116"/>
+<path class="edge" d="M520 168 L716 145"/>
+<path class="edge" d="M520 168 L716 174"/>
+<path class="edge" d="M520 168 L716 203"/>
+<path class="edge" d="M520 197 L716 145"/>
+<path class="edge" d="M520 197 L716 174"/>
+<path class="edge" d="M520 197 L716 203"/>
+<path class="edge" d="M520 226 L716 174"/>
+<path class="edge" d="M520 226 L716 203"/>
+<path class="signal" d="M128 120 L322 123 L520 139 L716 145" pathLength="1000"/>
+<path class="signal b" d="M128 178 L322 179 L520 168 L716 174" pathLength="1000"/>
+<path class="signal c" d="M128 91 L322 95 L520 110 L716 116" pathLength="1000"/>
+<circle class="node" cx="128" cy="91" r="7"/>
+<circle class="core pulse" cx="128" cy="91" r="3"/>
+<circle class="node" cx="128" cy="120" r="7"/>
+<circle class="core pulse b" cx="128" cy="120" r="3"/>
+<circle class="node" cx="128" cy="149" r="7"/>
+<circle class="core pulse c" cx="128" cy="149" r="3"/>
+<circle class="node" cx="128" cy="178" r="7"/>
+<circle class="core pulse" cx="128" cy="178" r="3"/>
+<circle class="node" cx="128" cy="207" r="7"/>
+<circle class="core pulse b" cx="128" cy="207" r="3"/>
+<circle class="node" cx="322" cy="67" r="6.3"/>
+<circle class="core pulse b" cx="322" cy="67" r="3"/>
+<circle class="node" cx="322" cy="95" r="6.3"/>
+<circle class="core pulse c" cx="322" cy="95" r="3"/>
+<circle class="node" cx="322" cy="123" r="6.3"/>
+<circle class="core pulse" cx="322" cy="123" r="3"/>
+<circle class="node" cx="322" cy="151" r="6.3"/>
+<circle class="core pulse b" cx="322" cy="151" r="3"/>
+<circle class="node" cx="322" cy="179" r="6.3"/>
+<circle class="core pulse c" cx="322" cy="179" r="3"/>
+<circle class="node" cx="322" cy="207" r="6.3"/>
+<circle class="core pulse" cx="322" cy="207" r="3"/>
+<circle class="node" cx="322" cy="235" r="6.3"/>
+<circle class="core pulse b" cx="322" cy="235" r="3"/>
+<circle class="node" cx="520" cy="81" r="6.3"/>
+<circle class="core pulse c" cx="520" cy="81" r="3"/>
+<circle class="node" cx="520" cy="110" r="6.3"/>
+<circle class="core pulse" cx="520" cy="110" r="3"/>
+<circle class="node" cx="520" cy="139" r="6.3"/>
+<circle class="core pulse b" cx="520" cy="139" r="3"/>
+<circle class="node" cx="520" cy="168" r="6.3"/>
+<circle class="core pulse c" cx="520" cy="168" r="3"/>
+<circle class="node" cx="520" cy="197" r="6.3"/>
+<circle class="core pulse" cx="520" cy="197" r="3"/>
+<circle class="node" cx="520" cy="226" r="6.3"/>
+<circle class="core pulse b" cx="520" cy="226" r="3"/>
+<circle class="node" cx="716" cy="116" r="7"/>
+<circle class="core pulse" cx="716" cy="116" r="3"/>
+<circle class="node" cx="716" cy="145" r="7"/>
+<circle class="core pulse b" cx="716" cy="145" r="3"/>
+<circle class="node" cx="716" cy="174" r="7"/>
+<circle class="core pulse c" cx="716" cy="174" r="3"/>
+<circle class="node" cx="716" cy="203" r="7"/>
+<circle class="core pulse" cx="716" cy="203" r="3"/>
+<text class="label" text-anchor="middle" x="128" y="259">INPUT</text>
+<text class="label" text-anchor="middle" x="322" y="259">ENCODE</text>
+<text class="label" text-anchor="middle" x="520" y="259">REASON</text>
+<text class="label" text-anchor="middle" x="716" y="259">OUTPUT</text>
+</g></svg>
